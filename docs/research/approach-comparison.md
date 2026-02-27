@@ -114,3 +114,44 @@ Otherwise RD-Agent is a black box you can't debug.
 - [FinRL](https://github.com/AI4Finance-Foundation/FinRL) — RL for finance
 - [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) — Financial LLMs
 - [VectorBT](https://vectorbt.dev/) — Fast backtesting
+
+---
+
+## 2026 Trend Analysis
+
+> Last updated: 2026-02-27
+
+### Current Industry Signals
+
+| Signal | Data | Implication |
+|--------|------|-------------|
+| **RD-Agent GitHub** | 11.4k ⭐, pushed 2026-02-26 | Active development, growing adoption |
+| **RD-Agent-Quant** | Accepted at NeurIPS 2025 | Academic validation of multi-agent approach |
+| **Qlib GitHub** | 37.9k ⭐ | Mature infrastructure, production-tested |
+| **arxiv q-fin papers** | Cross-listed with cs.AI, cs.LG | AI/ML is dominant research theme |
+
+### Verdict: Option B is where the industry is heading
+
+The 2026 research frontier is **multi-agent LLM systems for automated R&D**:
+- Microsoft investing heavily (Qlib + RD-Agent ecosystem)
+- NeurIPS acceptance validates the approach
+- Factor discovery automation is the competitive edge
+
+### However: Recommendation Unchanged
+
+> **Start with Option A to learn fundamentals. Graduate to Option B.**
+
+Why? The people publishing NeurIPS papers on RD-Agent understand factors, backtesting, and risk control deeply. They automated what they already understood.
+
+Starting with Option B without understanding Option A = black box you can't debug.
+
+**The trend being "AI agents" doesn't mean you should start there.**
+
+---
+
+## Changelog
+
+| Date | Update |
+|------|--------|
+| 2026-02-27 | Added 2026 trend analysis with GitHub/NeurIPS signals |
+| 2026-02-27 | Initial research: approach comparison, pros/cons, recommendation |
